@@ -1,0 +1,4 @@
+subnet
+analyzer
+*.exe
+*.o
